@@ -1,0 +1,133 @@
+country,Year,variable,value
+Australia,2010,GDP,1147589183475.73
+Australia,2009,GDP,928042998085.702
+Australia,2008,GDP,1055127126230.98
+Australia,2007,GDP,853955405511.502
+Australia,2006,GDP,747556154537.287
+Australia,2005,GDP,695075176665.163
+Australia,2004,GDP,614166310997.297
+Australia,2003,GDP,467390797903.32
+Australia,2002,GDP,395342716617.832
+Australia,2001,GDP,379083932596.329
+Australia,2000,GDP,415576210513.094
+France,2010,GDP,2645187882116.67
+France,2009,GDP,2700887366932.03
+France,2008,GDP,2930303780828.12
+France,2007,GDP,2660591246211.77
+France,2006,GDP,2320536221304.7
+France,2005,GDP,2196945232435.8
+France,2004,GDP,2119633181634.37
+France,2003,GDP,1844544792036.86
+France,2002,GDP,1501409382971.38
+France,2001,GDP,1377657339291.34
+France,2000,GDP,1365639660792.16
+United States,2010,GDP,14992052727000.0
+United States,2009,GDP,14448933025000.0
+United States,2008,GDP,14712844084000.0
+United States,2007,GDP,14451858656000.0
+United States,2006,GDP,13814611414000.0
+United States,2005,GDP,13036640230000.0
+United States,2004,GDP,12213729147000.0
+United States,2003,GDP,11458243878000.0
+United States,2002,GDP,10936419054000.0
+United States,2001,GDP,10581821399000.0
+United States,2000,GDP,10252345464000.0
+Australia,2010,Perct. Access to Electricity,100.0
+Australia,2009,Perct. Access to Electricity,100.0
+Australia,2008,Perct. Access to Electricity,100.0
+Australia,2007,Perct. Access to Electricity,100.0
+Australia,2006,Perct. Access to Electricity,100.0
+Australia,2005,Perct. Access to Electricity,100.0
+Australia,2004,Perct. Access to Electricity,100.0
+Australia,2003,Perct. Access to Electricity,100.0
+Australia,2002,Perct. Access to Electricity,100.0
+Australia,2001,Perct. Access to Electricity,100.0
+Australia,2000,Perct. Access to Electricity,100.0
+France,2010,Perct. Access to Electricity,100.0
+France,2009,Perct. Access to Electricity,100.0
+France,2008,Perct. Access to Electricity,100.0
+France,2007,Perct. Access to Electricity,100.0
+France,2006,Perct. Access to Electricity,100.0
+France,2005,Perct. Access to Electricity,100.0
+France,2004,Perct. Access to Electricity,100.0
+France,2003,Perct. Access to Electricity,100.0
+France,2002,Perct. Access to Electricity,100.0
+France,2001,Perct. Access to Electricity,100.0
+France,2000,Perct. Access to Electricity,100.0
+United States,2010,Perct. Access to Electricity,100.0
+United States,2009,Perct. Access to Electricity,100.0
+United States,2008,Perct. Access to Electricity,100.0
+United States,2007,Perct. Access to Electricity,100.0
+United States,2006,Perct. Access to Electricity,100.0
+United States,2005,Perct. Access to Electricity,100.0
+United States,2004,Perct. Access to Electricity,100.0
+United States,2003,Perct. Access to Electricity,100.0
+United States,2002,Perct. Access to Electricity,100.0
+United States,2001,Perct. Access to Electricity,100.0
+United States,2000,Perct. Access to Electricity,100.0
+Australia,2010,Debt,125386.967
+Australia,2009,Debt,82056.866
+Australia,2008,Debt,58185.32
+Australia,2007,Debt,49450.354
+Australia,2006,Debt,43907.474
+Australia,2005,Debt,45883.096
+Australia,2004,Debt,40988.861
+Australia,2003,Debt,41233.974
+Australia,2002,Debt,37785.12
+Australia,2001,Debt,35119.508
+Australia,2000,Debt,46472.311
+France,2010,Debt,1754504.091
+France,2009,Debt,1682267.853
+France,2008,Debt,1448240.596
+France,2007,Debt,1454122.715
+France,2006,Debt,1240230.753
+France,2005,Debt,1084816.729
+France,2004,Debt,1188595.702
+France,2003,Debt,1044992.307
+France,2002,Debt,811026.827
+France,2001,Debt,637908.735
+France,2000,Debt,635953.017
+United States,2010,Debt,9034951.0
+United States,2009,Debt,7561736.0
+United States,2008,Debt,5820460.0
+United States,2007,Debt,5054930.0
+United States,2006,Debt,4848260.0
+United States,2005,Debt,4605970.0
+United States,2004,Debt,4307420.0
+United States,2003,Debt,3924300.0
+United States,2002,Debt,3553420.0
+United States,2001,Debt,3339674.0
+United States,2000,Debt,3395489.0
+Australia,2010,Population,22031750.0
+Australia,2009,Population,21691653.0
+Australia,2008,Population,21249199.0
+Australia,2007,Population,20827622.0
+Australia,2006,Population,20450966.0
+Australia,2005,Population,20176844.0
+Australia,2004,Population,19932722.0
+Australia,2003,Population,19720737.0
+Australia,2002,Population,19495210.0
+Australia,2001,Population,19274701.0
+Australia,2000,Population,19028802.0
+France,2010,Population,64773169.0
+France,2009,Population,64458715.0
+France,2008,Population,64133174.0
+France,2007,Population,63781275.0
+France,2006,Population,63393406.0
+France,2005,Population,62958328.0
+France,2004,Population,62490800.0
+France,2003,Population,62037544.0
+France,2002,Population,61604550.0
+France,2001,Population,61163237.0
+France,2000,Population,60724780.0
+United States,2010,Population,309327143.0
+United States,2009,Population,306771529.0
+United States,2008,Population,304093966.0
+United States,2007,Population,301231207.0
+United States,2006,Population,298379912.0
+United States,2005,Population,295516599.0
+United States,2004,Population,292805298.0
+United States,2003,Population,290107933.0
+United States,2002,Population,287625193.0
+United States,2001,Population,284968955.0
+United States,2000,Population,282162411.0

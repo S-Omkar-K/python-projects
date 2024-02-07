@@ -1,0 +1,133 @@
+,country,Year,Indicators,Values
+10,Australia,2000,GDP,415576210513.094
+43,Australia,2000,Perct. Access to Electricity,100.0
+76,Australia,2000,Debt,46472.311
+109,Australia,2000,Population,19028802.0
+9,Australia,2001,GDP,379083932596.329
+42,Australia,2001,Perct. Access to Electricity,100.0
+75,Australia,2001,Debt,35119.508
+108,Australia,2001,Population,19274701.0
+8,Australia,2002,GDP,395342716617.832
+41,Australia,2002,Perct. Access to Electricity,100.0
+74,Australia,2002,Debt,37785.12
+107,Australia,2002,Population,19495210.0
+7,Australia,2003,GDP,467390797903.32
+40,Australia,2003,Perct. Access to Electricity,100.0
+73,Australia,2003,Debt,41233.974
+106,Australia,2003,Population,19720737.0
+6,Australia,2004,GDP,614166310997.297
+39,Australia,2004,Perct. Access to Electricity,100.0
+72,Australia,2004,Debt,40988.861
+105,Australia,2004,Population,19932722.0
+5,Australia,2005,GDP,695075176665.163
+38,Australia,2005,Perct. Access to Electricity,100.0
+71,Australia,2005,Debt,45883.096
+104,Australia,2005,Population,20176844.0
+4,Australia,2006,GDP,747556154537.287
+37,Australia,2006,Perct. Access to Electricity,100.0
+70,Australia,2006,Debt,43907.474
+103,Australia,2006,Population,20450966.0
+3,Australia,2007,GDP,853955405511.502
+36,Australia,2007,Perct. Access to Electricity,100.0
+69,Australia,2007,Debt,49450.354
+102,Australia,2007,Population,20827622.0
+2,Australia,2008,GDP,1055127126230.98
+35,Australia,2008,Perct. Access to Electricity,100.0
+68,Australia,2008,Debt,58185.32
+101,Australia,2008,Population,21249199.0
+1,Australia,2009,GDP,928042998085.702
+34,Australia,2009,Perct. Access to Electricity,100.0
+67,Australia,2009,Debt,82056.866
+100,Australia,2009,Population,21691653.0
+0,Australia,2010,GDP,1147589183475.73
+33,Australia,2010,Perct. Access to Electricity,100.0
+66,Australia,2010,Debt,125386.967
+99,Australia,2010,Population,22031750.0
+21,France,2000,GDP,1365639660792.16
+54,France,2000,Perct. Access to Electricity,100.0
+87,France,2000,Debt,635953.017
+120,France,2000,Population,60724780.0
+20,France,2001,GDP,1377657339291.34
+53,France,2001,Perct. Access to Electricity,100.0
+86,France,2001,Debt,637908.735
+119,France,2001,Population,61163237.0
+19,France,2002,GDP,1501409382971.38
+52,France,2002,Perct. Access to Electricity,100.0
+85,France,2002,Debt,811026.827
+118,France,2002,Population,61604550.0
+18,France,2003,GDP,1844544792036.86
+51,France,2003,Perct. Access to Electricity,100.0
+84,France,2003,Debt,1044992.307
+117,France,2003,Population,62037544.0
+17,France,2004,GDP,2119633181634.37
+50,France,2004,Perct. Access to Electricity,100.0
+83,France,2004,Debt,1188595.702
+116,France,2004,Population,62490800.0
+16,France,2005,GDP,2196945232435.8
+49,France,2005,Perct. Access to Electricity,100.0
+82,France,2005,Debt,1084816.729
+115,France,2005,Population,62958328.0
+15,France,2006,GDP,2320536221304.7
+48,France,2006,Perct. Access to Electricity,100.0
+81,France,2006,Debt,1240230.753
+114,France,2006,Population,63393406.0
+14,France,2007,GDP,2660591246211.77
+47,France,2007,Perct. Access to Electricity,100.0
+80,France,2007,Debt,1454122.715
+113,France,2007,Population,63781275.0
+13,France,2008,GDP,2930303780828.12
+46,France,2008,Perct. Access to Electricity,100.0
+79,France,2008,Debt,1448240.596
+112,France,2008,Population,64133174.0
+12,France,2009,GDP,2700887366932.03
+45,France,2009,Perct. Access to Electricity,100.0
+78,France,2009,Debt,1682267.853
+111,France,2009,Population,64458715.0
+11,France,2010,GDP,2645187882116.67
+44,France,2010,Perct. Access to Electricity,100.0
+77,France,2010,Debt,1754504.091
+110,France,2010,Population,64773169.0
+32,United States,2000,GDP,10252345464000.0
+65,United States,2000,Perct. Access to Electricity,100.0
+98,United States,2000,Debt,3395489.0
+131,United States,2000,Population,282162411.0
+31,United States,2001,GDP,10581821399000.0
+64,United States,2001,Perct. Access to Electricity,100.0
+97,United States,2001,Debt,3339674.0
+130,United States,2001,Population,284968955.0
+30,United States,2002,GDP,10936419054000.0
+63,United States,2002,Perct. Access to Electricity,100.0
+96,United States,2002,Debt,3553420.0
+129,United States,2002,Population,287625193.0
+29,United States,2003,GDP,11458243878000.0
+62,United States,2003,Perct. Access to Electricity,100.0
+95,United States,2003,Debt,3924300.0
+128,United States,2003,Population,290107933.0
+28,United States,2004,GDP,12213729147000.0
+61,United States,2004,Perct. Access to Electricity,100.0
+94,United States,2004,Debt,4307420.0
+127,United States,2004,Population,292805298.0
+27,United States,2005,GDP,13036640230000.0
+60,United States,2005,Perct. Access to Electricity,100.0
+93,United States,2005,Debt,4605970.0
+126,United States,2005,Population,295516599.0
+26,United States,2006,GDP,13814611414000.0
+59,United States,2006,Perct. Access to Electricity,100.0
+92,United States,2006,Debt,4848260.0
+125,United States,2006,Population,298379912.0
+25,United States,2007,GDP,14451858656000.0
+58,United States,2007,Perct. Access to Electricity,100.0
+91,United States,2007,Debt,5054930.0
+124,United States,2007,Population,301231207.0
+24,United States,2008,GDP,14712844084000.0
+57,United States,2008,Perct. Access to Electricity,100.0
+90,United States,2008,Debt,5820460.0
+123,United States,2008,Population,304093966.0
+23,United States,2009,GDP,14448933025000.0
+56,United States,2009,Perct. Access to Electricity,100.0
+89,United States,2009,Debt,7561736.0
+122,United States,2009,Population,306771529.0
+22,United States,2010,GDP,14992052727000.0
+55,United States,2010,Perct. Access to Electricity,100.0
+88,United States,2010,Debt,9034951.0
+121,United States,2010,Population,309327143.0
