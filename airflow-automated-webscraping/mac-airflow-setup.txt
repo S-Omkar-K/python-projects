@@ -1,0 +1,18 @@
+#You can install Airflow directly on Mac/Linux OS
+#You can install Airflow directly on WSL (Windows Subsystem for Linux)
+
+#set Airflow home
+export AIRFLOW_HOME=~/airflow
+
+# install from pypi using pip
+pip install apache-airflow
+
+# initialize the database
+airflow initdb
+
+# start the web server, default port is 8080
+# if 8080 is occupied map to another port, sparknb needs to map this port during start
+airflow webserver -p 8080
+
+# start the scheduler
+airflow scheduler
