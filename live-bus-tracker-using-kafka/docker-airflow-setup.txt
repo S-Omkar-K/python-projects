@@ -1,0 +1,40 @@
+#------------------------------------------------------------
+#Start a Airflow Docker container
+
+#Pull a docker Airflow image
+docker pull puckel/docker-airflow
+
+#Run a container with DAG examples loaded
+docker run --name airflow -e LOAD_EX=y -d -p 8080:8080 puckel/docker-airflow webserver
+
+#Run an Airflow DAG
+docker exec airflow airflow trigger_dag example_bash_operator
+
+#Run another Airflow DAG
+docker exec airflow airflow trigger_dag example_branch_operator
+
+# visit localhost:8080 in the browser and enable the example dag in the home page
+http://localhost:8080/admin/
+
+#http://192.168.99.100:8080/admin/
+
+#------------------------------------------------------------
+
+#Get inside the container 
+docker exec -u root -t -i airflow /bin/bash
+
+#create dag folder
+mkdir /usr/local/airflow/dags
+
+#exit docker container
+exit
+
+------------------------------------------------------------
+#Copy new DAG into the airflow container
+#This will schedule and run our custom DAG
+
+docker cp D://courses//BigData//sessions//code//Session8//8.2-DataScraper.py airflow:/usr/local/airflow/dags/
+
+
+#when done, use this code to shutdown the container
+#docker stop airflow
